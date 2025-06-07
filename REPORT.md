@@ -215,11 +215,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Every one with images_
 - Script(s):
   > _Write your response here_
 - Screenshot(s) of feature in game or scene view:
-  > _Insert screenshot here_
+  > _![sprites](Images/sprites.png)_
 
 ---
 
@@ -243,11 +243,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Player_
 - Script(s):
-  > _Write your response here_
+  > _PlayerScript.asset_
 - Screenshot(s) of feature in game or scene view:
-  > _Insert screenshot here_
+  > _![transform movement](Images/transform-movement.png)_
 
 ---
 
@@ -257,11 +257,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Player_
 - Script(s):
-  > _Write your response here_
+  > _PlayerScript.asset_
 - Screenshot(s) of feature in game or scene view:
-  > _Insert screenshot here_
+  > _![rb movement](Images/rb-movement.png)_
 
 ---
 
@@ -285,11 +285,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Cherry_
 - Script(s):
-  > _Write your response here_
+  > _None_
 - Screenshot(s) of feature in game or scene view:
-  > _Insert screenshot here_
+  > _![trigger colliders](Images/trigger-colliders.png)_
 
 ---
 
@@ -299,18 +299,18 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Player_
 - Script(s):
-  > _Write your response here_
+  > _PlayerScript.asset_
 - Screenshot(s) of feature in game or scene view:
-  > _Insert screenshot here_
+  > _![physics colliders](Images/physics-colliders.png)_
 
 ---
 
 ## Collision events
 
 Was this feature implemented?
-  > _Yes_
+  > _No_
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
@@ -328,11 +328,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _All shared Objects_
 - Script(s):
-  > _Write your response here_
+  > _None_
 - Screenshot(s) of feature:
-  > _Insert screenshot here_
+  > _![prefabs](Images/prefabs.png)_
 
 ---
 
@@ -370,17 +370,17 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Canvas_
 - Script(s):
-  > _Write your response here_
+  > _None_
 - Screenshot(s) of feature in game view:
-  > _Insert screenshot here_
+  > _![UI layout](Images/UI-layout.png)_
 
 ---
 
 ## UI updating
 Was this feature implemented?
-  > _Yes_
+  > _No_
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
@@ -396,12 +396,11 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _Main Camera_
 - Script(s):
-  > _Write your response here_
+  > _None_
 - Screenshot(s) of feature in scene view:
-  > _Insert screenshot here_
-
+  > _![basic camera](Images/camera.png)_
 ---
 
 ### Camera - Cinemachine
@@ -424,17 +423,17 @@ Was this feature implemented?
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
-  > _Write your response here_
+  > _BG Music_
 - Script(s):
-  > _Write your response here_
+  > _None_
 - Screenshot(s) of feature in scene view:
-  > _Insert screenshot here_
+  > _![audio looping](Images/audio-looping.png)_
 
 ---
 
 ### Audio - Events
 Was this feature implemented?
-  > _Yes_
+  > _No_
 
 If yes, where did you use this feature in your prototype?
 - Game Object(s):
@@ -453,7 +452,7 @@ Was this feature implemented?
 If yes, make sure you include a link to the build at the top of this document.
 
 - Screenshot(s) of game build running in external web browser:
-  > _Insert screenshot here_
+  > ![WebGL Build](Images/build.png)
 
 ---
 
